@@ -136,3 +136,5 @@ From the provided data, several additional insights can be drawn that delve into
   The popularity and price of certain breeds might influence breeding practices, potentially leading to ethical concerns about overbreeding or breeding for extreme traits.
 
 These additional insights can help stakeholders in the pet industry—ranging from breeders to retailers and pet care providers—to better understand market dynamics, optimize their offerings, and address consumer needs effectively.
+
+![image](https://github.com/user-attachments/assets/067769aa-41c5-483b-ac0c-24fd7871bd28)
